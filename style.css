@@ -21,9 +21,10 @@ main{
 }
 .box_buttons{
 background-color: white;
-height: 55px;width: 1250px;
+height: 55px;width: 1400px;
 margin-top: 50px;
 padding-left: 80px;
+border-radius: 10px;
 
 }
 .box01{
@@ -50,6 +51,85 @@ padding-left: 80px;
     text-align: center;
     width: 90px;
 }
+.big_box{
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 80px;
+    width: 1400px;
+    height: 615px;
+    border-radius: 10px;
+}
+.spazio{
+    margin-top: 10px;
+}
+.symbol01{
+    display: inline-block;
+    border: 3px solid;
+    border-radius: 50%;
+    border-color: green;
+    color: green;
+}
+.symbol02{
+    display: inline-block;
+    border: 3px solid;
+    border-radius: 50%;
+    border-color: red;
+    color: red;   
+}
+.button_purple{
+    display: inline-block;
+    background-color:  #ab21e6;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+}
+.button_green{
+    display: inline-block;
+    background-color:  #42e781;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+}
+.button_orange{
+    display: inline-block;
+    background-color:  #c97e16;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+}
+.button_pink{
+    display: inline-block;
+    background-color:  #d167bf;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+}
+.button_lightgreen{
+    display: inline-block;
+    background-color:  #a2d09d;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+
+}
+
+
+
 
 
 
