@@ -16,3 +16,43 @@ margin: 0px;
     font-family: 'Roboto', sans-serif;
     font-size: 30px;
 }
+main{
+    margin-left: 250px;
+}
+.box_buttons{
+background-color: white;
+height: 55px;width: 1250px;
+margin-top: 50px;
+padding-left: 80px;
+
+}
+.box01{
+    display: inline-block;
+    margin-top: 8px;
+}
+.box02{
+    display: inline-block;
+}
+.button01{
+    display: inline-block;
+    background-color:  #47adf1;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+}
+.button02{
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 90px;
+}
+
+
+
+
+
+
